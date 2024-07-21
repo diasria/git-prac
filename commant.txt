@@ -1,1 +1,9 @@
 command file
+
+
+
+git log
+git status
+git add
+git restore
+git commit
